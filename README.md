@@ -1,3 +1,3 @@
-# network
-This github shows Linux network stack,it will update and extend.
+# network internals
+This github shows Linux network internals,it will update and extend.
 If something wrong ,Please create an ISSUE.
