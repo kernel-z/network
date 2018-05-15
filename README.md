@@ -1,3 +1,3 @@
 # network
-The github shows Linux network stack.
-If something wrong ,please create a issue.
+This github shows Linux network stack,it will update and extend.
+If something wrong ,Please create an ISSUE.
