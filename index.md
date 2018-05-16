@@ -16,5 +16,9 @@ Fix some errors, add packet fragment/defrag/options,etc.And color the map.
 May 15, 2018
 [network stack-0.2](https://github.com/kernel-z/network/blob/master/netstack-0.2.png)
 
+-------------------------------------------
+
+## Network Initialize 
+
 
 
